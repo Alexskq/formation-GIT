@@ -8,7 +8,7 @@ j'efface tout
 
 nouveau projet et branche
 
-ceci est la version commentaire
+ceci est la version commentaire modifiée.
 
 
 
