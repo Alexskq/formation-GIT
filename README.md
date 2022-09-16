@@ -12,5 +12,5 @@ ceci est la version master
 ceci est la version commentaire modifiée.
 
 
-je suis la branche MAIN Master !!
+je suis la branche MAIN Mastermind !!
 
